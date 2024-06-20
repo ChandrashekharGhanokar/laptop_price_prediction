@@ -1,3 +1,3 @@
 # laptop_price_prediction
 Developed a machine learning model to predict laptop prices using a variety of regression algorithms including Linear Regression, Ridge, Lasso, KNeighborsRegressor, DecisionTreeRegressor, RandomForestRegressor, GradientBoostingRegressor, AdaBoostRegressor, ExtraTreesRegressor, SVR, XGBoost, XGBRegressor, Voting Regressor and Stacking. Conducted extensive data preprocessing and feature engineering to improve model accuracy.
-Evaluated model performance using metrics such as MAE and R2 score, and optimized hyperparameters to enhance prediction accuracy. Achieved a highly accurate and reliable model for predicting laptop prices.
+Evaluated model performance using metrics such as MAE and R2 score and optimized hyperparameters to enhance prediction accuracy. Achieved a highly accurate and reliable model for predicting laptop prices.
